@@ -1,0 +1,41 @@
+body { background: rgb(252, 223, 228);
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;}
+.tittle {background: rgb(68, 187, 233); color: rgb(238, 226, 226);
+         height: 40;
+         width: 185; }
+
+
+ul { background: rgb(243, 240, 240);
+     padding: 6px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+li {display: inline; padding: 10px; }
+a { color: black; text-decoration: none; padding: 5px 10px; }
+a:hover { background: rgb(68, 187, 233); 
+          color: white;
+          font-weight: bolder;}
+
+.navigation { position: relative;
+              top: -170px; left: 200}
+
+.habbydream { display: flex ; }
+
+.dream {position: relative;
+        left:30;}
+
+td { text-align: center; border: 1px dotted red; }
+tr:first-child { background: rgb(222, 239, 246); }
+td:hover { background:rgb(68, 187, 233); 
+           color: white; 
+           font-weight: bolder; }
+   
+button { background:rgb(252, 223, 228); border:10px;}
+button:hover { background: rgb(68, 187, 233); 
+               color: white; 
+               font-weight: bolder; }
+textarea { font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           background: rgb(243, 240, 240);}
+               
+.reset { position: relative;
+         top: -20; left: 310; }
